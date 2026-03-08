@@ -20,16 +20,69 @@ An open-source AI text rewriting tool that transforms AI-generated academic text
 
 ## Pages & Functions / 页面与功能
 
-| Page / 页面 | Path / 路径 | Description / 说明 |
-|---|---|---|
-| Rewrite / 改写 | `/rewrite` | Core feature: paste text, select Ghost 4.0 or 4.1, get rewritten result with AI detection score / 核心功能：粘贴文本，选择模型，获取改写结果和 AI 检测评分 |
-| AI Detect / AI 检测 | `/detect` | Paste any text to get an AI detection score (vocabulary, structure, flow, voice) / 粘贴文本获取 AI 检测评分（词汇、结构、流畅度、语态） |
-| Dashboard / 仪表盘 | `/dashboard` | View usage statistics and recent rewrite results / 查看使用统计和最近改写结果 |
-| Plans / 套餐 | `/plans` | Free / Week / Pro subscription plans / 免费 / 周卡 / 专业版套餐 |
-| Profile / 个人资料 | `/profile` | User profile and account info / 用户资料和账户信息 |
-| Share / 推荐 | `/share` | Generate referral link & QR code, earn +3 bonus rewrites per referral / 生成推荐链接和二维码，每次推荐 +3 次改写 |
-| Feedback / 反馈 | `/feedback` | Submit feedback to the team / 向团队提交反馈 |
-| Cooperation / 合作 | `/cooperation` | Business partnership contact / 商务合作联系 |
+### Rewrite / 改写 (`/rewrite`)
+
+Core feature: paste text, select Ghost 4.0 or 4.1, get rewritten result with AI detection score.
+
+核心功能：粘贴文本，选择模型，获取改写结果和 AI 检测评分。
+
+<!-- screenshot -->
+
+### AI Detect / AI 检测 (`/detect`)
+
+Paste any text to get an AI detection score (vocabulary, structure, flow, voice).
+
+粘贴文本获取 AI 检测评分（词汇、结构、流畅度、语态）。
+
+<!-- screenshot -->
+
+### Dashboard / 仪表盘 (`/dashboard`)
+
+View usage statistics and recent rewrite results.
+
+查看使用统计和最近改写结果。
+
+<!-- screenshot -->
+
+### Plans / 套餐 (`/plans`)
+
+Free / Week / Pro subscription plans.
+
+免费 / 周卡 / 专业版套餐。
+
+<!-- screenshot -->
+
+### Profile / 个人资料 (`/profile`)
+
+User profile and account info.
+
+用户资料和账户信息。
+
+<!-- screenshot -->
+
+### Share / 推荐 (`/share`)
+
+Generate referral link & QR code, earn +3 bonus rewrites per referral.
+
+生成推荐链接和二维码，每次推荐 +3 次改写。
+
+<!-- screenshot -->
+
+### Feedback / 反馈 (`/feedback`)
+
+Submit feedback to the team.
+
+向团队提交反馈。
+
+<!-- screenshot -->
+
+### Cooperation / 合作 (`/cooperation`)
+
+Business partnership contact.
+
+商务合作联系。
+
+<!-- screenshot -->
 
 ## Tech Stack / 技术栈
 
