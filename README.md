@@ -24,7 +24,8 @@ An open-source AI text rewriting tool that transforms AI-generated academic text
 
 Core feature: paste text, select Ghost 4.0 or 4.1, get rewritten result with AI detection score.
 
-核心功能：粘贴文本，选择模型，获取改写结果和 AI 检测评分。
+<img width="2876" height="1618" alt="7fba1a7b90d3a6825eae4f761384d680" src="https://github.com/user-attachments/assets/45d311e4-4a06-4c3d-890e-4ed645a8a1ac" />
+
 
 <!-- screenshot -->
 
