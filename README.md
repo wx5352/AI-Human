@@ -34,6 +34,8 @@ Core feature: paste text, select Ghost 4.0 or 4.1, get rewritten result with AI 
 Paste any text to get an AI detection score (vocabulary, structure, flow, voice).
 
 粘贴文本获取 AI 检测评分（词汇、结构、流畅度、语态）。
+<img width="2850" height="1290" alt="4a80eef1019016f2151c65872941c7f8" src="https://github.com/user-attachments/assets/92d3c203-e01f-4d14-8001-41930d59505b" />
+
 
 <!-- screenshot -->
 
@@ -42,6 +44,8 @@ Paste any text to get an AI detection score (vocabulary, structure, flow, voice)
 View usage statistics and recent rewrite results.
 
 查看使用统计和最近改写结果。
+<img width="2898" height="1380" alt="image" src="https://github.com/user-attachments/assets/08c9745c-f478-476a-a536-f5dc02681910" />
+
 
 <!-- screenshot -->
 
