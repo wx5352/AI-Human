@@ -1,8 +1,8 @@
 # HumanizeAI
 
-An open-source AI text rewriting tool that transforms AI-generated academic text into natural, human-like writing.
+An open-source AI text rewriting tool that transforms AI-generated academic text into natural, human-like writing. Specifically designed to bypass Turnitin AI detection.
 
-一款开源的 AI 文本改写工具，将 AI 生成的学术文本转化为自然的人类写作风格。
+一款开源的 AI 文本改写工具，将 AI 生成的学术文本转化为自然的人类写作风格。专为通过 Turnitin AI 检测而设计。
 
 ---
 
