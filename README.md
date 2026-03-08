@@ -54,6 +54,8 @@ View usage statistics and recent rewrite results.
 Free / Week / Pro subscription plans.
 
 免费 / 周卡 / 专业版套餐。
+<img width="2900" height="1250" alt="image" src="https://github.com/user-attachments/assets/b253eda8-4432-4a94-b5a9-8bb6ad3b71af" />
+
 
 <!-- screenshot -->
 
@@ -62,6 +64,8 @@ Free / Week / Pro subscription plans.
 User profile and account info.
 
 用户资料和账户信息。
+<img width="2890" height="1294" alt="image" src="https://github.com/user-attachments/assets/bc79dac3-4cce-4227-9a5c-a1ebdae5d797" />
+
 
 <!-- screenshot -->
 
@@ -70,6 +74,8 @@ User profile and account info.
 Generate referral link & QR code, earn +3 bonus rewrites per referral.
 
 生成推荐链接和二维码，每次推荐 +3 次改写。
+<img width="2880" height="1344" alt="image" src="https://github.com/user-attachments/assets/e287b586-4d6d-4d0a-82ee-5db0b5fb58f0" />
+
 
 <!-- screenshot -->
 
@@ -78,6 +84,8 @@ Generate referral link & QR code, earn +3 bonus rewrites per referral.
 Submit feedback to the team.
 
 向团队提交反馈。
+<img width="2876" height="1266" alt="image" src="https://github.com/user-attachments/assets/4e7007f5-1b50-4fdf-abed-d0e04540c9e1" />
+
 
 <!-- screenshot -->
 
@@ -86,6 +94,8 @@ Submit feedback to the team.
 Business partnership contact.
 
 商务合作联系。
+<img width="2884" height="1248" alt="image" src="https://github.com/user-attachments/assets/a8374723-8502-4934-8fc7-9a73663ff7d2" />
+
 
 <!-- screenshot -->
 
