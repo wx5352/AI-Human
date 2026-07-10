@@ -7,13 +7,11 @@ An open-source research prototype for studying adversarial behaviors against LLM
 
 ## Features / 功能特性
 
-- **Two Rewrite Modes / 两种改写模式**
-  - **Ghost 4.0** — Formal academic paraphrase / 正式学术改写
-  - **Ghost 4.1** — Natural human-like rewrite / 自然人类风格
-- **AI Detection Score / AI 检测评分** — Built-in heuristic analyzer / 内置启发式分析器
+- **Two linguistic perturbation modes for adversarial testing
+  - **Formal academic style perturbation** — Simulate formal academic text feature distortion
+  - **Daily natural style perturbation** — Simulate casual humanized text feature distortion
+- **Built-in heuristic LLM trace analyzer** -  Quantify text features identified by mainstream AI detectors
 - **Google OAuth / Google 登录** — One-click sign in / 一键登录
-- **Usage Control / 用量控制** — Daily limits with plan-based quotas / 按套餐每日限制
-- **Referral System / 推荐系统** — Share links to earn bonus rewrites / 分享链接获取额外次数
 - **i18n / 双语** — English & Chinese / 中英文界面
 - **Dark Mode / 深色模式** — Full theme support / 完整主题支持
 
@@ -50,13 +48,6 @@ View usage statistics and recent rewrite results.
 
 <!-- screenshot -->
 
-### Plans / 套餐 (`/plans`)
-
-Free / Week / Pro subscription plans.
-
-免费 / 周卡 / 专业版套餐。
-<img width="2900" height="1250" alt="image" src="https://github.com/user-attachments/assets/b253eda8-4432-4a94-b5a9-8bb6ad3b71af" />
-
 
 <!-- screenshot -->
 
@@ -66,16 +57,6 @@ User profile and account info.
 
 用户资料和账户信息。
 <img width="2890" height="1294" alt="image" src="https://github.com/user-attachments/assets/bc79dac3-4cce-4227-9a5c-a1ebdae5d797" />
-
-
-<!-- screenshot -->
-
-### Share / 推荐 (`/share`)
-
-Generate referral link & QR code, earn +3 bonus rewrites per referral.
-
-生成推荐链接和二维码，每次推荐 +3 次改写。
-<img width="2880" height="1344" alt="image" src="https://github.com/user-attachments/assets/e287b586-4d6d-4d0a-82ee-5db0b5fb58f0" />
 
 
 <!-- screenshot -->
@@ -208,17 +189,22 @@ Research purpose: Expose the weak robustness of current AI trace detection tools
 
 ### Ghost 4.0 — Formal Academic Perturbation
 
-Formal vocabulary substitution to alter statistical word distribution
-Academic logical conjunctions restructuring
-Nominalization transformation to change sentence syntactic features
-Standard academic discourse template adjustment
+1. Formal vocabulary substitution to alter statistical word distribution
+2. Academic logical conjunctions restructuring
+3. Nominalization transformation to change sentence syntactic features
+4. Standard academic discourse template adjustment
 
 ### Ghost 4.1 — Natural Humanized Perturbation
 
-Active/passive sentence switching and clause reordering
-Colloquial logical transition injection
-Abstract concept concretization to eliminate rigid AI writing patterns
-Flexible punctuation adjustment to break machine text features
+1. Active/passive sentence switching and clause reordering
+2. Colloquial logical transition injection
+3. Abstract concept concretization to eliminate rigid AI writing patterns
+4. Flexible punctuation adjustment to break machine text features
+
+## Research Background
+With the wide application of LLM, hidden text traces embedded in AI-generated content bring severe risks to compliance audit, academic integrity and financial document traceability. Existing AI text detectors lack stable resistance against linguistic adversarial rewriting.
+
+This self-developed open-source prototype implements controllable text perturbation experiments. Combined with my years of engineering experience in financial risk control systems, this project helps me summarize the failure modes of mainstream trace detection algorithms, laying the foundation for my follow-up research on robust AI content governance in regulated financial scenarios.
 
 ## Deploy / 部署
 
