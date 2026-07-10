@@ -1,8 +1,7 @@
-# HumanizeAI
+# HumanizeAI: Research Prototype for LLM Text Trace Adversarial Analysis
+An open-source research prototype for studying adversarial behaviors against LLM text detection algorithms. This project explores the technical loopholes of mainstream AI content detectors, analyzes how linguistic rewriting distorts AI-generated text features, and provides experimental support for building robust AI traceability and content governance mechanisms.
 
-An open-source AI text rewriting tool that transforms AI-generated academic text into natural, human-like writing. Specifically designed to bypass Turnitin AI detection.
-
-一款开源的 AI 文本改写工具，将 AI 生成的学术文本转化为自然的人类写作风格。专为通过 Turnitin AI 检测而设计。
+本开源原型用于研究大模型文本检测算法的对抗行为，探究主流AI内容识别工具存在的技术缺陷，分析语言改写对AI生成文本特征的扰动逻辑，为构建可靠的AI内容溯源、合规治理体系提供实验依据。
 
 ---
 
