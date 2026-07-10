@@ -196,29 +196,29 @@ src/
 
 ## How It Works / 工作原理
 
-1. User pastes text (10–2,000 words) / 用户粘贴文本（10–2,000 词）
-2. Selects Ghost 4.0 (formal) or Ghost 4.1 (natural) / 选择改写模式
-3. Backend sends text to GPT-4o-mini with mode-specific prompts / 后端发送到 GPT-4o-mini
-4. AI rewrites following prompt instructions / AI 按指令改写
-5. Heuristic analyzer scores AI detection likelihood / 启发式分析器评分
-6. Returns rewritten text + detection breakdown / 返回改写文本 + 检测明细
+This prototype serves as an experimental platform to analyze the vulnerability of existing LLM text detection systems:
+Input text materials (10–2,000 words, including AI-generated and human-written samples)
+Select linguistic perturbation strategy to adjust sentence structure, word choice and discourse logic
+Invoke LLM to generate perturbed text with controlled rewriting prompts
+Heuristic analyzer extracts text statistical features and outputs trace risk score
+Output comparison data of original text vs perturbed text for security research
+Research purpose: Expose the weak robustness of current AI trace detection tools, and provide data support for designing anti-adversarial detection solutions in financial and academic compliance scenarios.
 
 ## Rewrite Modes / 改写模式
 
-### Ghost 4.0 — Formal Academic / 正式学术
+### Ghost 4.0 — Formal Academic Perturbation
 
-- Synonym replacement / 同义词替换（simple → formal）
-- Academic connectors / 学术连接词（Moreover, Furthermore...）
-- Nominalization / 名词化（improve services → enhancement of service quality）
-- Academic sentence templates / 学术句式模板
+Formal vocabulary substitution to alter statistical word distribution
+Academic logical conjunctions restructuring
+Nominalization transformation to change sentence syntactic features
+Standard academic discourse template adjustment
 
-### Ghost 4.1 — Natural Human / 自然人类
+### Ghost 4.1 — Natural Humanized Perturbation
 
-- Syntax restructuring / 句法重排（swap clauses, passive ↔ active）
-- Natural transitions / 自然转折（That said, Building on this...）
-- Ground abstract concepts / 抽象词落地（risk → specific risks）
-- Hedging / 限定条件（depends on, in practice...）
-- Clear punctuation / 清晰标点
+Active/passive sentence switching and clause reordering
+Colloquial logical transition injection
+Abstract concept concretization to eliminate rigid AI writing patterns
+Flexible punctuation adjustment to break machine text features
 
 ## Deploy / 部署
 
