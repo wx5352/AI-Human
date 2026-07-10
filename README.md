@@ -6,9 +6,9 @@ An open-source research prototype for studying adversarial behaviors against LLM
 
 ## Features / 功能特性
 
-- **Two linguistic perturbation modes for adversarial testing
-  - **Formal academic style perturbation** — Simulate formal academic text feature distortion
-  - **Daily natural style perturbation** — Simulate casual humanized text feature distortion
+- **Two linguistic perturbation modes for adversarial testing**
+  - Formal academic style perturbation — Simulate formal academic text feature distortion
+  - Daily natural style perturbation — Simulate casual humanized text feature distortion
 - **Built-in heuristic LLM trace analyzer** -  Quantify text features identified by mainstream AI detectors
 - **Google OAuth / Google 登录** — One-click sign in / 一键登录
 - **i18n / 双语** — English & Chinese / 中英文界面
