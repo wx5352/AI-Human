@@ -3,7 +3,6 @@ An open-source research prototype for studying adversarial behaviors against LLM
 
 本开源原型用于研究大模型文本检测算法的对抗行为，探究主流AI内容识别工具存在的技术缺陷，分析语言改写对AI生成文本特征的扰动逻辑，为构建可靠的AI内容溯源、合规治理体系提供实验依据。
 
----
 
 ## Features / 功能特性
 
